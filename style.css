@@ -1,6 +1,7 @@
 html, body, .page-container{
   height : 100%;
   margin : 0;
+  font-family: sans-serif;
 }
 .page-container{
   width : 100%;
@@ -12,6 +13,31 @@ html, body, .page-container{
   width : 33.33%;
   height : 100%;
   background-color: #18990c;
+}
+
+.service-container{
+  position : relative;
+  margin-top : 70px;
+}
+
+.dark-background{
+  position : relative;
+  width : 100%;
+  height : 50px;
+
+}
+
+.service-text{
+  position : absolute;
+  text-align : center;
+  top : 13px;
+  bottom : 13px;
+  left : 20px;
+  right : 20px;
+  color : white;
+  font-size: 23px;
+  font-weight : bold;
+
 }
 
 .mid-container{
