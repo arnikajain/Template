@@ -34,7 +34,7 @@ html, body, .page-container{
   bottom : 13px;
   left : 20px;
   right : 20px;
-  color : white;
+  color : #ffffff;
   font-size: 23px;
   font-weight : bold;
 
@@ -62,12 +62,43 @@ html, body, .page-container{
   font-size: 15px;
   color : White;
   margin : auto;
+  font-weight : bold;
 }
 
 .mid-container{
   width : 33.33%;
   height : 100%;
-  background-color: white;
+  background-color: #ffffff;
+}
+
+.contact-heading{
+  font-weight : bold;
+  font-size: 25px;
+  text-align : center;
+  margin-top: 60px;
+}
+
+.contact-info-container{
+  display : flex;
+  justify-content: space-between;
+}
+
+.info-container{
+  display : flex;
+  justify-content: space-between;
+}
+
+.info-heading{
+    margin : auto;
+    font-size : 25px;
+    font-weight : bold;
+}
+
+.info-lines{
+  margin : auto;
+  font-size : 25px;
+  font-weight : bold;
+  color : #5c003d;
 }
 
 .right-container{

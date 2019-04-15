@@ -36,7 +36,17 @@
           <div class = "service-name">Service 2</div>
         </div>
       </div>
-      <div class = "mid-container"></div>
+      <div class = "mid-container">
+        <div class = "contact-heading">Contact Us</div>
+        <div class = "info-container">
+          <div class = "info-heading">Info Heading : </div>
+          <div class = "info-lines">
+            Info Line 1</br>
+            Info Line 2</br>
+            Info Line 3</br>
+          </div>
+        </div>
+      </div>
       <div class = "right-container"></div>
     </div>
   </body>
