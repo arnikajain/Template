@@ -101,6 +101,28 @@ html, body, .page-container{
   color : #5c003d;
 }
 
+.info-number-container{
+  display : flex;
+  justify-content: space-between;
+}
+
+.call-symbol{
+  width : 50px;
+  height : 50px;
+  margin : auto;
+}
+
+.number{
+  margin : auto;
+  font-size : 23px;
+  font-weight : bold;
+}
+
+.map{
+  width : 100%;
+  margin-top : 30px;
+}
+
 .right-container{
   width : 33.33%;
   height : 100%;

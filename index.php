@@ -46,6 +46,11 @@
             Info Line 3</br>
           </div>
         </div>
+        <div class = "info-number-container">
+          <img src = "images/callSymbol" class = "call-symbol">
+          <div class = "number">91-7458216412</div>
+        </div>
+        <img src = "images/map.jpg" class = "map">
       </div>
       <div class = "right-container"></div>
     </div>
