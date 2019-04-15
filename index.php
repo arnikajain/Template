@@ -51,6 +51,15 @@
           <div class = "number">91-7458216412</div>
         </div>
         <img src = "images/map.jpg" class = "map">
+        <div class = "address-container">
+          <img src = "images/locationPinpointer" class = "pinpointer">
+          <div class = "address-lines">
+            Address line 1 </br>
+            Address line 2 </br>
+            Address line 3 </br>
+            Address line 4 </br>
+          </div>
+        </div>
       </div>
       <div class = "right-container"></div>
     </div>
