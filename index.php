@@ -61,7 +61,16 @@
           </div>
         </div>
       </div>
-      <div class = "right-container"></div>
+      <div class = "right-container">
+        <div class = "main-heading-container">
+          <img src = "images/unknownImage" class = "logo">
+          <div class = "main-heading">MAIN HEADING</div>
+        </div>
+        <div class = "image-container">
+          <img src = "images/unknownImage.jpg" class = "image">
+        </div>
+        <div class = "tag-line">Lorem Ipsum</div>
+      </div>
     </div>
   </body>
 </html>

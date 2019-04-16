@@ -2,6 +2,7 @@ html, body, .page-container{
   height : 100%;
   margin : 0;
   font-family: sans-serif;
+  font-weight : bold;
 }
 .page-container{
   width : 100%;
@@ -24,7 +25,6 @@ html, body, .page-container{
   position : relative;
   width : 100%;
   height : 50px;
-
 }
 
 .service-text{
@@ -36,8 +36,6 @@ html, body, .page-container{
   right : 20px;
   color : #ffffff;
   font-size: 23px;
-  font-weight : bold;
-
 }
 
 .service-image-container{
@@ -62,7 +60,6 @@ html, body, .page-container{
   font-size: 15px;
   color : White;
   margin : auto;
-  font-weight : bold;
 }
 
 .mid-container{
@@ -72,7 +69,7 @@ html, body, .page-container{
 }
 
 .contact-heading{
-  font-weight : bold;
+
   font-size: 25px;
   text-align : center;
   margin-top: 60px;
@@ -91,13 +88,11 @@ html, body, .page-container{
 .info-heading{
     margin : auto;
     font-size : 25px;
-    font-weight : bold;
 }
 
 .info-lines{
   margin : auto;
   font-size : 25px;
-  font-weight : bold;
   color : #5c003d;
 }
 
@@ -115,7 +110,6 @@ html, body, .page-container{
 .number{
   margin : auto;
   font-size : 23px;
-  font-weight : bold;
 }
 
 .map{
@@ -138,11 +132,46 @@ html, body, .page-container{
 .address-lines{
   margin : auto;
   font-size : 23px;
-  font-weight : bold;
 }
 
 .right-container{
   width : 33.33%;
   height : 100%;
   background-color: #18990c;
+}
+
+.main-heading-container{
+  display : flex;
+  justify-content: space-between;
+  margin-top : 40px;
+  padding : 25px;
+}
+
+.logo{
+  margin : auto;
+  width : 95px;
+  height : 100px;
+}
+
+.main-heading{
+  margin : auto;
+  font-size : 30px;
+  color : #fff;
+}
+
+.image-container{
+  display : flex;
+  justify-content: center;
+}
+
+.image{
+  width : 280px;
+  height : 450px;
+}
+
+.tag-line{
+  text-align: center;
+  font-size: 20px;
+  color : #fff;
+  margin-top : 20px;
 }
